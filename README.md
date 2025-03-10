@@ -10,7 +10,7 @@ The dataset includes detailed information about pizza orders, including:
 - Pizza names, types and sizes
 - Quantities ordered
 - Pricing information
-- 
+  
 ## Tools Used
 - Data Cleaning tools: **Excel** for clean and preprocess the dataset for analysis.
 - Data Visualizations tools: **PowerBI** for Graphs and charts to visualize sales performance, revenue, popular pizza types, and customer preferences
