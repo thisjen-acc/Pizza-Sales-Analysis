@@ -10,18 +10,12 @@ The dataset includes detailed information about pizza orders, including:
 - Quantities ordered
 - Pricing information
 
-## KPIs Calculated
-1. Total Revenue by Month and Whole Year
-2. Average Order Value (AOV)
-3. Total Pizzas Sold
-4. Revenue by Pizza Category
-5. Revenue by Pizza Size
-6. Top-Selling Pizzas
-7. Busiest Order Time
-8. Revenue by Pizza Ingredients
-9. Pizza Popularity by Day of Week
-10. Average Pizza per Order
-11. Revenue Contribution by Pizza
+## KPIs Requirement
+1. Total Revenue: The sum of the total price of all pizza orders.
+2. Average Order Value (AOV): The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+3. Total Pizzas Sold: The sum of the quantities of all pizzas sold.
+4. Total Orders: The total number of orders placed.
+5. Average Pizzas Per Order:The average number of pizzas sold per order,calculated by dividing the total number of pizzas sold by the total number of orders.
     
 ## Dataset [`data/`](data/)
 - **Raw Data**: `data/raw_data.csv`
