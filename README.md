@@ -23,7 +23,7 @@ The dataset includes detailed information about pizza orders, including:
 10. Average Pizza per Order
 11. Revenue Contribution by Pizza
     
-## Dataset
+## Dataset [`data/`](data/)
 - **Raw Data**: `data/raw_data.csv`
 - **Cleaned Data**: `data/cleaned_data.xlsx`
 - **Exported Data(from MySQL workbench)**: `data/exported_data.xlsx`
