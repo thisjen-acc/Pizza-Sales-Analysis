@@ -26,10 +26,10 @@ The dataset includes detailed information about pizza orders, including:
 ## Dataset
 - **Raw Data**: `data/raw_data.csv`
 - **Cleaned Data**: `data/cleaned_data.xlsx`
-- **Exported Data**: `data/exported_data.xlsx`
+- **Exported Data(from MySQL workbench)**: `data/exported_data.xlsx`
 
 ## SQL Queries
-All SQL queries used for analysis can be found in the [`scripts/sql_queries.sql`](scripts/sql_queries.sql) file.
+All SQL queries used for analysis can be found in the [`scripts/`](scripts/) folder.
 
 ## Tools Used
 - **Data Cleaning:** Excel for cleaning and preprocessing the dataset for analysis.
