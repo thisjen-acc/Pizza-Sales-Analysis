@@ -24,10 +24,9 @@ The dataset includes detailed information about pizza orders, including:
 6. Top-Selling Pizzas
 7. Busiest Order Time
 8. Revenue by Pizza Ingredients
-9. Customer Order Frequency
-10. Pizza Popularity by Day of Week
-11. Average Pizza per Order
-12. Revenue Contribution by Pizza
+9. Pizza Popularity by Day of Week
+10. Average Pizza per Order
+11. Revenue Contribution by Pizza
     
 
 ## Tools Used
