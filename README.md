@@ -12,11 +12,11 @@ The dataset includes detailed information about pizza orders, including:
 
 ## Dataset
 - **Raw Data**: `data/raw_data.csv`
-- **Cleaned Data**: `data/cleaned_data.xls`
-- **Exported Data**: `data/exported_data.xls`
+- **Cleaned Data**: `data/cleaned_data.xlsx`
+- **Exported Data**: `data/exported_data.xlsx`
 
 ## KPIs Calculated
-1. Total Revenue by Month and Year
+1. Total Revenue by Month and Whole Year
 2. Average Order Value (AOV)
 3. Total Pizzas Sold
 4. Revenue by Pizza Category
