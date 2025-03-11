@@ -1,7 +1,7 @@
 # Pizza Sales Analysis
 
 ## Overview
-This repository contains a dataset and analysis tools for pizza sales from ABC Pizza Hut. The project aims to provide insights into customer behavior, sales trends, and operational efficiency through data analysis.
+This project analyzes pizza sales data to calculate key performance indicators (KPIs) and provide actionable insights for the business.
 
 The dataset includes detailed information about pizza orders, including:
 - Pizza ID and Order ID
@@ -9,6 +9,11 @@ The dataset includes detailed information about pizza orders, including:
 - Pizza names, types, and sizes
 - Quantities ordered
 - Pricing information
+
+  ## Dataset
+- **Raw Data**: `data/raw/pizza_sales_raw.csv`
+- **Cleaned Data**: `data/cleaned/pizza_sales_cleaned.csv`
+- **Exported Data**: `data/exported/pizza_sales_exported.sql`
   
 ## Tools Used
 - **Data Cleaning:** Excel for cleaning and preprocessing the dataset for analysis.
