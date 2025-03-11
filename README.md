@@ -15,6 +15,21 @@ The dataset includes detailed information about pizza orders, including:
 - **Cleaned Data**: `data/cleaned_data.xls`
 - **Exported Data**: `data/exported_data.xls`
 
+## KPIs Calculated
+1. Total Revenue by Month and Year
+2. Average Order Value (AOV)
+3. Total Pizzas Sold
+4. Revenue by Pizza Category
+5. Revenue by Pizza Size
+6. Top-Selling Pizzas
+7. Busiest Order Time
+8. Revenue by Pizza Ingredients
+9. Customer Order Frequency
+10. Pizza Popularity by Day of Week
+11. Average Pizza per Order
+12. Revenue Contribution by Pizza
+    
+
 ## Tools Used
 - **Data Cleaning:** Excel for cleaning and preprocessing the dataset for analysis.
 - **Data Import:** MySQL workbench for handling big data, ensuring reliable imports with minimal missing values, and enhancing flexibility and performance in managing large datasets.
