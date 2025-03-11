@@ -31,9 +31,13 @@ The dataset includes detailed information about pizza orders, including:
 ## SQL Queries
 All SQL queries used for analysis can be found in the [`scripts/`](scripts/) folder.
 
+## Steps to Reproduce
+1. Import the dataset into MySQL Workbench.
+2. Run the queries from the `[`scripts/`](scripts/) file to calculate KPIs.
+3. Export the results for further analysis or visualization.
+
 ## Tools Used
-- **Data Cleaning:** Excel for cleaning and preprocessing the dataset for analysis.
-- **Data Import:** MySQL workbench for handling big data, ensuring reliable imports with minimal missing values, and enhancing flexibility and performance in managing large datasets.
-- **Data Manipulation:** MySQL workbench for data analysis process. 
-- **Data Visualization:** Power BI for creating graphs and charts to visualize sales performance, revenue, popular pizza types, and customer preferences.
-- **Data Analysis:** Exploratory Data Analysis (EDA) to uncover trends and patterns in pizza sales.
+- **Data Cleaning:** Excel
+- **Data Analysis:** MySQL Workbench
+- **Data Visualization:** Power BI
+
