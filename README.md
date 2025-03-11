@@ -10,11 +10,11 @@ The dataset includes detailed information about pizza orders, including:
 - Quantities ordered
 - Pricing information
 
-  ## Dataset
-- **Raw Data**: `data/raw/pizza_sales_raw.csv`
-- **Cleaned Data**: `data/cleaned/pizza_sales_cleaned.csv`
-- **Exported Data**: `data/exported/pizza_sales_exported.sql`
-  
+## Dataset
+- **Raw Data**: `data/raw_data.csv`
+- **Cleaned Data**: `data/cleaned_data.xls`
+- **Exported Data**: `data/exported_data.xls`
+
 ## Tools Used
 - **Data Cleaning:** Excel for cleaning and preprocessing the dataset for analysis.
 - **Data Import:** MySQL workbench for handling big data, ensuring reliable imports with minimal missing values, and enhancing flexibility and performance in managing large datasets.
