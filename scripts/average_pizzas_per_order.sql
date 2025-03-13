@@ -1,1 +1,0 @@
-select round(sum(quantity) /count(distinct order_id),2) avg_pizza_per_order from sales;
